@@ -51,7 +51,7 @@ AI-Powered-Fraud-Detection/
 
 ## Usage 
 
-1.  Ensure the dataset files (`BankA_SWIFT_Training_Dataset_Full.xlsx` and `BankA_SWIFT_Testing_Dataset_Full.xlsx`) are present in the `data/` folder.
+1.  Ensure the dataset files are present in the `data/` folder.
 2.  Launch Jupyter Notebook or Jupyter Lab:
    
     ```
