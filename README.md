@@ -28,6 +28,8 @@ AI-Powered-Fraud-Detection/
 1.  **Clone the repository:**
     ```
     git clone https://github.com/venkatvellapalem/AI-Powered-Fraud-Detection.git
+    ```
+    ```
     cd AI-Powered-Fraud-Detection
     ```
 
