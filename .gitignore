@@ -1,2 +1,2 @@
-# Ignoring python pickle files
+# Ignoring python pickle files (.pkl)
 *.pkl
